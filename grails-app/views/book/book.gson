@@ -1,0 +1,9 @@
+model{
+	String title
+	String author
+}
+
+json.book {
+	title title
+	author author
+}
